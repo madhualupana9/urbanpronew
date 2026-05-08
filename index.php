@@ -315,9 +315,10 @@
                             Elevate Your Living Spaces With UPVC Excellence
                             </div>
                         </div>
-                           <p>UrbanPro relies on its expertise in the manufacture, design, installation, and servicing of uPVC windows and doors to deliver outstanding products to our customers. Based out of Hyderabad, we at UrbanPro are committed to delivering the highest quality products and we aim to revolutionize the way living spaces are imagined in India.</p><br>
+                           <p>At UrbanPro, we design and deliver premium uPVC and Aluminium Windows & Doors that combine elegance, durability, and performance for modern homes and commercial spaces. Based in Hyderabad, we specialize in creating solutions that enhance natural light, improve ventilation, reduce outside noise, and elevate the overall aesthetic of every space.</p><br>
 
-                            <p>UrbanPro started as a vision to make homes better, both aesthetically and performance wise. This dream was dreamt by a team of interior designers, builders, and architects. Since we already worked closely with building people’s homes and creating beautiful living spaces, we understood the importance of having just the right windows and doors to uplift the game.</p>
+                            <p>Built with precision engineering and high-quality materials, our products are designed to withstand harsh weather conditions while offering superior energy efficiency, security, and long-lasting performance. From contemporary residences to large-scale commercial projects, we help architects, builders, and homeowners create spaces that are both functional and visually refined.</p><br>
+                            <p>With a strong focus on craftsmanship, customization, and customer satisfaction, UrbanPro has become a trusted choice for stylish, secure, and future-ready window and door systems across Hyderabad and surrounding regions.</p>
                         </div>
                         </div>
                 </div>
@@ -457,12 +458,7 @@
                         <div class="sub-title">Windows & Doors System</div>
                         <div class="flat-title margin15-11">Key Benefits Of Aluminum / uPVC Windows & Doors</div>
                         </div>
-                        <!-- <p class="paddingright30">
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                        sed diam nonumy eirmod tempor invidunt ut labore et dolore
-                        magna aliquyam erat, sed diam voluptua. At vero eos et
-                        accusam
-                        </p> -->
+                       
                     </div>
                     </div>
                     <div class="col-sm-8 clearfix">
@@ -496,7 +492,6 @@
                     </div>
                     </div>       
                 </div>
-                <!-- <div class="themesflat-spacer clearfix" data-desktop="53" data-mobile="40" data-smobile="30" ></div> -->
            
             <div class="row clearfix">
                 <div class="col-md-6"></div>
@@ -520,7 +515,6 @@
                                         <div class="entry-image bg-linear-gradient position-relative">
                                         <img src="assets/images/Tab/img2tab.png" alt="images"/>    
                                         <div class="title"><a>Sliding</a></div>  
-                                        <!-- <p style="color: #fff;">With frames that can slide back and forth, uPVC sliding windows offer great ventilation and aesthetic looks.</p> -->       
                                         </div>
                                     </div>
                                    </div>
@@ -532,7 +526,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/imgtab1.png" alt="images"/>    
                                          <div class="title"><a>Casement</a></div>
-                                         <!-- <p style="color: #fff;">Perfect to block any disturbance that may come from outside, uPVC Casement windows are highly soundproof and amazingly beautiful to look at.</p>       -->   
                                          </div>
                                      </div>
                                     </div>
@@ -543,7 +536,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/img7tab.png" alt="images"/>    
                                          <div class="title"><a>Top Hung</a></div>    
-                                         <!-- <p style="color: #fff;">Let the sunlight in and see the sky in its true glory with uPVC Top Hung windows. The elegance and beauty of this style of windows cannot be matched.</p>    -->  
                                          </div>
                                      </div>
                                     </div>
@@ -554,7 +546,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/img6tab.png" alt="images"/>    
                                          <div class="title"><a>Tilt and Turn</a></div>     
-                                         <!-- <p style="color: #fff;">With great looks comes great functionality. uPVC Tilt and Turn windows are highly versatile and can cater to all your needs with their unique angles at which they open and close.</p>  -->   
                                          </div>
                                      </div>
                                     </div>
@@ -569,7 +560,6 @@
                                         <div class="entry-image bg-linear-gradient position-relative">
                                         <img src="assets/images/Tab/img8tab.png" alt="images"/>    
                                         <div class="title"><a>Sliding</a></div>      
-                                        <!-- <p style="color: #fff;">These high-grade doors offer a lot more comfort and durability when compared to regular doors and take up less space in your house. Keep your home temperature-controlled and sound-proof.</p> -->   
                                         </div>
                                     </div>
                                    </div>
@@ -580,7 +570,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/img9tab.png" alt="images"/>    
                                          <div class="title"><a>Lift and Slide</a></div>   
-                                         <!-- <p style="color: #fff;">The perfect addition to your homes, uPVC Lift and Slide doors give you the best of both worlds; function and looks and these are very popular in the Indian market.</p> -->      
                                          </div>
                                      </div>
                                     </div>
@@ -591,7 +580,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/img4tab.png" alt="images"/>    
                                          <div class="title"><a>Tilt and Turn</a></div>     
-                                         <!-- <p style="color: #fff;">Highly secure, durable and easy on the eyes. uPVC Tilt and Turn doors provide you maximum comfort and security, and are made with high-grade material to last longer.</p> -->    
                                          </div>
                                      </div>
                                     </div>
@@ -602,7 +590,6 @@
                                          <div class="entry-image bg-linear-gradient position-relative">
                                          <img src="assets/images/Tab/img10tab.png" alt="images"/>    
                                          <div class="title"><a>Fold and Slide</a></div>    
-                                         <!-- <p style="color: #fff;">Imagine feeling the goodness of the outdoors in the comfort of your home. You don’t have to imagine that when you get uPVC Fold and Slide doors to let everything natural in.</p> -->     
                                          </div>
                                      </div>
                                     </div>
@@ -613,7 +600,6 @@
                 </div>
                 </div>
             </div>
-                <!-- <div class="themesflat-spacer clearfix" data-desktop="85" data-mobile="40" data-smobile="30" ></div> -->
              
             </div>
         </section>
@@ -641,11 +627,8 @@
                 <div class="flat-carousel-box data-effect clearfix" data-zero="0" data-gap="30" data-column="2" data-column2="1" data-column3="1" data-column4="1"  data-dots="false" data-auto="true" data-nav="false" data-loop="true">
                     <div class="owl-carousel wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="tf-image-box text-center bg-color-style2 hv-background-before-style2">
-                            <!-- <div class="image">
-                                <img src="assets/images/Secsion/imgtestimonio3.jpg" alt="images">
-                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            </div> -->
-                            <p class="pd-center">Excellent Products provider. Good Quality windows and doors. Reasonable Price with Excellent Service</p>
+                           
+                            <p class="pd-center">UrbanPro delivered exactly what we were looking for. The quality of the uPVC windows and doors is excellent, and the finishing truly enhanced the look of our home. Their team was professional, responsive, and completed the installation on time</p>
                             <div class="tf-conten">
                                 <span>Krusna M</span>
                                 <p class="position">Hyderabad</p>
@@ -653,11 +636,8 @@
                         </div>
 
                         <div class="tf-image-box  text-center bg-color-style2 hv-background-before-style2 ">
-                            <!-- <div class="image">
-                                <img src="assets/images/Secsion/imgtestimonio4.jpg" alt="images">
-                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            </div> -->
-                            <p class="pd-center">UrbanPro upvc is provides good uPVC Windows and uPVC Doors. If you are looking any kind of windows and doors go for UrbanPro uPVC. Windows and doors are very good quality and reasonable cost for all customers.</p>
+                            
+                            <p class="pd-center">We compared multiple vendors before choosing UrbanPro, and it turned out to be the right decision. The windows provide great noise reduction, smooth operation, and a modern appearance. The pricing was also very reasonable for the quality offered..</p>
                             <div class="tf-conten">
                                 <span>N Ram</span>
                                 <p class="position">Hyderabad</p>
@@ -665,11 +645,8 @@
                         </div>
 
                         <div class="tf-image-box text-center bg-color-style2 hv-background-before-style2">
-                            <!-- <div class="image">
-                                <img src="assets/images/Secsion/imgtestimonio5.jpg" alt="images">
-                                <i class="fa fa-quote-left" aria-hidden="true"></i>
-                            </div> -->
-                            <p class="pd-center">Good service..good materiel good response.. thank you urbanpro staf & management....REGARDING KVR RESIDENCY TADA..PROPRAITER</p>
+                            
+                            <p class="pd-center">Very satisfied with the overall experience. From consultation to installation, the UrbanPro team handled everything professionally. The material quality, customer support, and attention to detail were impressive. Highly recommended for anyone planning premium windows and doors.</p>
                             <div class="tf-conten">
                                 <span>venkatarao kommineni</span>
                                 <p class="position">Hyderabad</p>
@@ -842,18 +819,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="blog-details.html"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="javascript:void(0);"><i class="fa fa-folder-open"></i>Home Gardening</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="blog-details.html"><i class="fa fa-user"></i>Name</a>
+                                        <a href="javascript:void(0);"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="blog-details.html">Mauris neque nisiibus non elementum</a>
+                                        <a href="javascript:void(0);">Why uPVC Windows Are the Smart Choice for Modern Homes</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -864,18 +841,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                     <span class="entry-calendar entry-calendar-style1">
-                                        <a href="blog-details.html"><i class="fa fa-folder-open"></i>Gardening Ideas</a >
+                                        <a href="javascript:void(0);"><i class="fa fa-folder-open"></i>Gardening Ideas</a >
                                     </span>
                                 </div> <!-- post-calendar -->
                                     <div class="content-blog-style2 pd-style1 bg-color">
                                         <span class="admin tf-text-hv">
-                                            <a href="blog-details.html"><i class="fa fa-user"></i>Name</a>
+                                            <a href="javascript:void(0);"><i class="fa fa-user"></i>UrbanPro Team</a>
                                         </span>
                                         <div class="title-blog tf-text-hv">
-                                            <a href="blog-details.html">Quisque suscipit ipsum est, eu venenatis leo</a>
+                                            <a href="javascript:void(0);">Top Benefits of Installing Premium Aluminium Doors</a>
                                         </div>
                                         <div class="date">
-                                            28 JANUARY, 2020
+                                            02 MAY, 2026
                                         </div>
                                     </div>
                             </div>
@@ -885,18 +862,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                     <span class="entry-calendar entry-calendar-style1">
-                                        <a href="blog-details.html"><i class="fa fa-folder-open"></i>Gardening Ideas</a >
+                                        <a href="javascript:void(0);"><i class="fa fa-folder-open"></i>Gardening Ideas</a >
                                     </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 pd-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="blog-details.html"><i class="fa fa-user"></i>Name</a>
+                                        <a href="javascript:void(0);"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="blog-details.html">Maecenas interdum lorem eleifend orci aliquam</a>
+                                        <a href="javascript:void(0);">How Quality Windows & Doors Increase Property Value</a>
                                     </div>
                                     <div class="date">
-                                            28 JANUARY, 2020
+                                        09 April, 2026
                                     </div>
                                 </div>
                             </div>

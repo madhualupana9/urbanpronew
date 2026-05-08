@@ -44,18 +44,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>uPVC Windows</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">Why uPVC Windows Are Perfect For Modern Homes In Hyderabad.</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -67,18 +67,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>Aluminium Doors</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">Top Benefits Of Installing Premium Aluminium Doors.</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -90,18 +90,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>Home Improvement</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">How Quality Windows & Doors Improve Home Value</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -115,18 +115,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>Energy Efficiency</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">Reduce Noise & Heat With Modern uPVC Window Systems</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -138,18 +138,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>Interior Design</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">Choosing The Right Windows & Doors For Contemporary Interiors.</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                       08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
@@ -161,18 +161,18 @@
                                 </div>
                                 <div class="meta-blog-style2">
                                         <span class="entry-calendar">
-                                            <a href="#"><i class="fa fa-folder-open"></i>Home Gardening</a >
+                                            <a href="#"><i class="fa fa-folder-open"></i>Architecture</a >
                                         </span>
                                 </div> <!-- post-calendar -->
                                 <div class="content-blog-style2 bg-color">
                                     <span class="admin tf-text-hv">
-                                        <a href="#"><i class="fa fa-user"></i>Name</a>
+                                        <a href="#"><i class="fa fa-user"></i>UrbanPro Team</a>
                                     </span>
                                     <div class="title-blog tf-text-hv">
-                                        <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                                        <a href="#">Modern Window & Door Trends For Stylish Living Spaces.</a>
                                     </div>
                                     <div class="date">
-                                        28 JANUARY, 2020
+                                        08 MAY, 2026
                                     </div>
                                 </div>
                             </div>
